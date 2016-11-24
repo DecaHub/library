@@ -4,9 +4,9 @@
 
 [Library API](https://github.com/DecaHub/library_api)
 
-### Content Strategy
+## Content Strategy
 
-## User Interaction
+### User Interaction
 
 * What should the Library accomplish?
 
@@ -23,25 +23,29 @@
 * How will user needs be satisfied?
 
 
-## Content
+### Content
 
 * What content do we need?
 
 * Where does that content go?
 
 
-## Developing Content 
+### Developing Content 
 
 * How will our users read the content?
 
 * How can we make it easy for the users to get the content they need?
 
-## Content Governance
+### Content Parity 
+
+* All users of the Library should have access to all the content regardless of the device that they are using.
+
+### Content Governance
 
 * What's our strategy to take care of the content in the Library (assessing obsolete material, detecting and correcting broken links, etc.)?
 
 * Does the content stand on its own? What is its shelf life?
 
-## Metadata
+### Metadata
 
 * What data is needed to define our data (data chunks that can be reassembled)?
